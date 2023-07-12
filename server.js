@@ -1,1 +1,1 @@
-// comment
+import './config/database.js'
